@@ -1,4 +1,8 @@
-## Hi there 👋
+| Category                    | Technologies                                                                                                                                                                                              | Level                                                     |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Containerization**        | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                                     | ![Beginner](https://img.shields.io/badge/Beginner-yellow) |
+| **Scripting & Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Beginner](https://img.shields.io/badge/Beginner-yellow) |
+| **Linux & OS**              | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | ![Beginner](https://img.shields.io/badge/Beginner-yellow) |
 
 <!--
 **WorthlessBladyka/WorthlessBladyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
